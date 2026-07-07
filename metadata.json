@@ -1,0 +1,6 @@
+{
+  "name": "AeroWatch AP",
+  "description": "Urban Environmental Intelligence (UEI) platform for hyper-local air quality monitoring, predictive plume dispersion, and AI-driven municipal action.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
