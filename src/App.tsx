@@ -431,6 +431,8 @@ export default function App() {
           {tabMode === "analytics" && (
             <AnalyticsPanel
               biogasStats={biogasStats}
+              sensors={sensors}
+              incidents={incidents}
             />
           )}
         </div>
